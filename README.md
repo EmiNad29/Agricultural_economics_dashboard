@@ -7,6 +7,6 @@ The GUI allows the user to see all the previous entries registered in the databa
 
 caption.png brings a picture to the dashboard.
 
-Then come the illustrations.
+Then come the illustrations, Example1.png for the GUI, and Rexample2.png for the dashboard.
 
 English version coming soon.
